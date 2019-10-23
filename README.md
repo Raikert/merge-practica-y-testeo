@@ -19,6 +19,10 @@ private:
 public:
     Boton(float x,float y,float posx,float posy,int transparencia=0)
     {
+<<<<<<< Updated upstream
+=======
+class mundo cruel
+>>>>>>> Stashed changes
         boton.setSize(Vector2f(x,y));
         esi[0]=posx;
         esi[1]=posy;
